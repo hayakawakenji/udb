@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>ユーザー登録画面</title>
+<title>ユーザー登録画面123</title>
 </head>
 <body>
 <p>ユーザー登録フォーム456</p>
