@@ -4,7 +4,7 @@
 <title>ユーザー登録画面</title>
 </head>
 <body>
-<p>ユーザー登録フォーム</p>
+<p>ユーザー登録フォーム456</p>
 <form method="POST" action="prev.php">
 <p>■氏名</p>
 <div>
